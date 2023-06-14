@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+My name is Alex Peterson, and I'm a student in the front end development program at the Turing School of Software Engineering & Design. Welcome to my github!
+
+
 <!--
 **apete12/apete12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
