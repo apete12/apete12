@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Alex Peterson, and I'm a student in the front end development program at the Turing School of Software Engineering & Design. Welcome to my github!
+My name is Alex Peterson, and I'm a student in the front end development program at the Turing School of Software & Design. Welcome to my github!
 
 Some of my technology skills:\
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript) ![HTML5](https://img.shields.io/badge/-HTML5-05122A?style=flat&logo=html5) 
