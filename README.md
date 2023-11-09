@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Alex Peterson, and I'm a student in the front end development program at the Turing School of Software & Design. Welcome to my github!
+My name is Alex Peterson, I'm a frontend software engineer specializing in accessibility. Welcome to my github!
 
 Some of my technology skills:\
 ![React Router](https://img.shields.io/badge/-React_Router-05122A?style=flat&logo=reactrouter) ![Express.js](https://img.shields.io/badge/-Express.js-05122A?style=flat&logo=express)![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript) ![HTML5](https://img.shields.io/badge/-HTML5-05122A?style=flat&logo=html5) 
